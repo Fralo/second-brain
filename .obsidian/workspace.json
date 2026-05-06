@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Mental Health/Logs/2026-05-06.md",
+                "file": "Templates/Mental Health Log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-06"
+              "title": "Mental Health Log"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Mental Health/Logs/2026-05-06.md",
+                "file": "Templates/Mental Health Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-05-06"
+              "title": "Backlinks for Mental Health Log"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Mental Health/Logs/2026-05-06.md",
+                "file": "Templates/Mental Health Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-05-06"
+              "title": "Outgoing links from Mental Health Log"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Mental Health/Logs/2026-05-06.md",
+                "file": "Templates/Mental Health Log.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-05-06"
+              "title": "Outline of Mental Health Log"
             }
           }
         ]
@@ -185,16 +185,16 @@
   },
   "active": "8f3342bcf1a066c9",
   "lastOpenFiles": [
+    "Areas/Mental Health/Logs/2026-05-06.md",
+    "Areas/Mental Health/Logs",
+    "Areas/Mental Health",
     "Templates/Todo List.md",
     "Templates/Mental Health Log.md",
-    "Areas/Mental Health/Logs/2026-05-06.md",
     "Templates/Meeting Notes.md",
     "CLAUDE.md",
     "Welcome.md",
     "CLAUDE.md.tmp.76698.45b9429151fb",
     "Templates/Mental Health Log.md.tmp.76698.485c681f2683",
-    "Areas/Mental Health/Logs",
-    "Areas/Mental Health",
     "Templates",
     "Archives",
     "Resources",

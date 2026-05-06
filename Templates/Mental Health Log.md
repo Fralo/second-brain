@@ -22,8 +22,5 @@ created: {{date:YYYY-MM-DD}} {{time:HH:mm}}
 ## Coping strategies
 
 
-## Gratitude
--
-
 ## Reflection
 
