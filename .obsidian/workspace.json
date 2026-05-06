@@ -180,16 +180,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "8f3342bcf1a066c9",
   "lastOpenFiles": [
     "Areas/Mental Health/Logs/2026-05-06.md",
+    "Templates/Mental Health Log.md",
     "Areas/Mental Health/Logs",
     "Areas/Mental Health",
     "Templates/Todo List.md",
-    "Templates/Mental Health Log.md",
     "Templates/Meeting Notes.md",
     "CLAUDE.md",
     "Welcome.md",
