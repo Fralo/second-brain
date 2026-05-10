@@ -11,10 +11,14 @@
             "id": "47a5484449369537",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Projects/BMG/Prova.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Prova"
             }
           }
         ]
@@ -180,8 +184,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7cc08a5f1de4392c",
+  "active": "47a5484449369537",
   "lastOpenFiles": [
+    "Projects/BMG/Prova.md",
     "Projects/BMG",
     "Templates/Mental Health Log.md",
     "Areas/Mental Health/Logs/2026-05-06.md",
@@ -197,7 +202,6 @@
     "Archives",
     "Resources",
     "Areas",
-    "Projects",
-    "CLAUDE.md.tmp.76698.a2f188512d25"
+    "Projects"
   ]
 }
