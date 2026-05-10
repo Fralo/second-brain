@@ -12,6 +12,8 @@ attendees:
 - Tommaso Meledina
 ## Agenda
 
+Domande che voglio fare a Tommaso:
+- 
 ## Notes
 
 ## Action items
