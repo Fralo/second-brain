@@ -14,11 +14,13 @@ attendees:
 
 ## Agenda
 
+- Di cosa si tratta il progetto? Che problema stiamo risolvendo?
 - Com'è il progetto oggi — siamo in produzione o ancora in sviluppo? Ci sono scadenze vicine?
-- Puoi farmi una panoramica dell'architettura? Ci sono aree critiche o debito tecnico di cui devo essere consapevole?
+- Quali sono, a grandi linee, le parti in movimento? Puoi farmi una panoramica dell'architettura? Ci sono aree critiche o debito tecnico di cui devo essere consapevole?
 - Come lavoriamo insieme — c'è un ticketing system, come facciamo PR e review tra noi?
 - Come preferisci comunicare e aggiornarti sul mio avanzamento, almeno all'inizio?
 - Di cosa ho bisogno subito per iniziare? (accessi, doc, setup locale) E qual è la prima cosa su cui posso mettere le mani?
+- C'è già qualcosa in particolare che vorresti che approfondisca ?
 
 ## Notes
 
