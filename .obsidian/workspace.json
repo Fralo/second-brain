@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1ac8f99129c97591",
+        "id": "cd6242f8fee0b9d4",
         "type": "tabs",
         "children": [
           {
-            "id": "8f3342bcf1a066c9",
+            "id": "47a5484449369537",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Mental Health Log.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Mental Health Log"
+              "title": "New tab"
             }
           }
         ]
@@ -184,10 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f3342bcf1a066c9",
+  "active": "47a5484449369537",
   "lastOpenFiles": [
-    "Areas/Mental Health/Logs/2026-05-06.md",
     "Templates/Mental Health Log.md",
+    "Areas/Mental Health/Logs/2026-05-06.md",
     "Areas/Mental Health/Logs",
     "Areas/Mental Health",
     "Templates/Todo List.md",
