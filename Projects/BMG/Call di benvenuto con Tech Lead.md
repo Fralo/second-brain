@@ -7,114 +7,114 @@ attendees:
   - Tommaso Meledina (Tech Lead)
 ---
 
-# Call di benvenuto con Tech Lead — 2026-05-11
+# Welcome Call with Tech Lead — 2026-05-11
 
 ## Attendees
 - Tommaso Meledina (Tech Lead)
 
 ---
 
-## Contesto
+## Context
 
-### Catena di lavoro
-**Nearform** → ingaggiata per supportare **BMG** → BMG fa consulenza a **Roche** sul progetto Trial Simulator (Swiss Pharma)
+### Work chain
+**Nearform** → engaged to support **BMG** → BMG consults for **Roche** on the Trial Simulator project (Swiss Pharma)
 
-### Stakeholder chiave
-- **Wayne Vest** (McKinsey) — dirigente che gestisce la collaborazione con Nearform; viaggia molto, nessun timezone fisso
+### Key stakeholders
+- **Wayne Vest** (McKinsey) — executive managing the collaboration with Nearform; travels a lot, no fixed timezone
 
-### Situazione alla data della call
-- Q1 appena concluso; sera del 11/05 presentazione interna per decidere se si va avanti
-- Settimana corrente (11–16 maggio): nessun lavoro operativo
-- Settimana successiva (18 maggio~): si decide la roadmap del Q2
+### Situation as of the call date
+- Q1 just concluded; internal presentation on the evening of 05/11 to decide whether to move forward
+- Current week (May 11–16): no operational work
+- Following week (~May 18): Q2 roadmap will be decided
 
 ---
 
-## Progetto: Trial Simulator (Roche) — AINE
+## Project: Trial Simulator (Roche) — AINE
 
-Progetto **AI Native** basato su framework **BMAD**. Modalità di ingaggio: **Staff Augmentation**.
+**AI Native** project based on the **BMAD** framework. Engagement model: **Staff Augmentation**.
 
-### Problema che risolve
-Consentire ai decision maker di Roche di investire in R&D con decisioni **data-driven**, invece di affidarsi a valutazioni soggettive.
+### Problem it solves
+Enable Roche decision makers to invest in R&D with **data-driven** decisions, instead of relying on subjective evaluations.
 
-### Come funziona
+### How it works
 
-Un **scenario** rappresenta la simulazione di un percorso R&D per una molecola specifica:
+A **scenario** represents the simulation of an R&D path for a specific molecule:
 
 ```
-Input (molecola + parametri) → Macchina a stati finiti → Simulazione → Risultati
+Input (molecule + parameters) → Finite state machine → Simulation → Results
 ```
 
-**Output di ogni scenario:**
-- Probabilità che il ciclo R&D dia i risultati sperati
-- Tempo stimato
-- Costo stimato
-- ROI calcolato sui 3 precedenti
+**Output of each scenario:**
+- Probability that the R&D cycle yields the expected results
+- Estimated time
+- Estimated cost
+- ROI calculated on the 3 above
 
-**Feature aggiuntive:**
-- Versioning degli scenari
-- Confronto tra N scenari
+**Additional features:**
+- Scenario versioning
+- Comparison between N scenarios
 
-### Stack tecnico
+### Tech stack
 
-| Layer | Tecnologia |
+| Layer | Technology |
 |---|---|
 | Frontend | Angular |
 | Backend | FastAPI (BFF — Backend for Frontend) |
-| AI / Analytics | Hemisphere separato, sviluppato da BMG |
+| AI / Analytics | Separate hemisphere, developed by BMG |
 
-> Noi gestiamo input e output. L'hemisphere AI (sviluppato da BMG) viene chiamato via API per eseguire le simulazioni.
-
----
-
-## Stato attuale e focus Q2
-
-- Q1 terminato; emersi miglioramenti da fare
-- **Q2 focus**: miglioramenti **non funzionali**, rendere il prodotto enterprise-grade
-- Applicazione sistematica del framework **BMAD** per la parte AI
+> We handle input and output. The AI hemisphere (developed by BMG) is called via API to run the simulations.
 
 ---
 
-## Onboarding e accessi
+## Current status and Q2 focus
 
-### Infrastruttura Roche (segregata)
-- Account Roche separati — Tommaso se ne sta occupando
-- Profili Chrome professionali dedicati
-- Accesso tramite computer Roche o **VDI (Siteix)** → sessione Windows remota
-- ⚠️ Senza account Roche non è possibile accedere al materiale del progetto
-
-### Prima settimana
-- Un **buddy** mi contatterà per rispondere a domande di onboarding
+- Q1 finished; improvements identified
+- **Q2 focus**: **non-functional** improvements, making the product enterprise-grade
+- Systematic application of the **BMAD** framework for the AI part
 
 ---
 
-## Team e modo di lavorare
+## Onboarding and access
 
-### Strumenti
-- **GitLab Enterprise**: issue board + board agile integrato col cliente
+### Roche infrastructure (segregated)
+- Separate Roche accounts — Tommaso is handling this
+- Dedicated professional Chrome profiles
+- Access via Roche computer or **VDI (Siteix)** → remote Windows session
+- ⚠️ Without a Roche account it's not possible to access project material
 
-### Divisione del lavoro (fase iniziale)
-- Tommaso continua lo sviluppo mentre mi ambiento
-- Progressivamente prendo autonomia sullo sviluppo
+### First week
+- A **buddy** will contact me to answer onboarding questions
+
+---
+
+## Team and way of working
+
+### Tools
+- **GitLab Enterprise**: issue board + agile board integrated with the client
+
+### Work division (initial phase)
+- Tommaso continues development while I get up to speed
+- I progressively take ownership of development
 
 ### Work-life balance
-- Orario tipico: **9–18**, guidato dagli impegni del giorno
-- L'obiettivo è il cliente contento con aspettative ben dimensionate
-- Ciascuno gestisce come raggiunge l'obiettivo — non c'è microgestione
+- Typical hours: **9–18**, driven by the day's commitments
+- The goal is a happy client with well-calibrated expectations
+- Everyone manages how they reach the goal — there's no micromanagement
 
-### Attenzione ai fusi orari
-- Wayne Vest: nessun timezone fisso (viaggia)
-- Team McKinsey: prevalentemente in Europa
-- Cliente Roche: maggior parte in **America**, piccola parte in **India**
-- Possiamo fare pushback sulle riunioni, ma è importante dare disponibilità
+### Timezone awareness
+- Wayne Vest: no fixed timezone (travels)
+- McKinsey team: mostly in Europe
+- Roche client: most in **America**, a small part in **India**
+- We can push back on meetings, but it's important to give availability
 
 ---
 
 ## Action items
 
-- [ ] Aspettare account Roche (Tommaso se ne occupa)
-- [ ] Essere contattato dal buddy nella prima settimana
-- [ ] Partecipare alla decisione sulla roadmap Q2 (settimana del 18 maggio)
-- [ ] Ambientarsi nel codebase prima di prendere autonomia sullo sviluppo
+- [ ] Wait for Roche account (Tommaso is handling it)
+- [ ] Be contacted by the buddy during the first week
+- [ ] Participate in the Q2 roadmap decision (week of May 18)
+- [ ] Get familiar with the codebase before taking ownership of development
 
 ## Next steps
 
