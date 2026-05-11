@@ -72,6 +72,12 @@ La prossima settimana decidiamo che fare nel secondo quarter.
 AGILE e stabilire le priorità.
 
 
+# secondo quarter
+
+- molto incentrato sulla parte non funzionale
+- rendere enterprise grade quello che abbiamo fatto
+
+
 ## Action items
 
 - [ ] 
