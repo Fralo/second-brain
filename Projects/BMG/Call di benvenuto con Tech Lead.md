@@ -20,7 +20,7 @@ attendees:
 **Nearform** → engaged to support **BMG** → BMG consults for **Roche** on the Trial Simulator project (Swiss Pharma)
 
 ### Key stakeholders
-- **Wayne Vest** (McKinsey) — executive managing the collaboration with Nearform; travels a lot, no fixed timezone
+- **Wayne Vest** (BMG) — executive managing the collaboration with Nearform; travels a lot, no fixed timezone
 
 ### Situation as of the call date
 - Q1 just concluded; internal presentation on the evening of 05/11 to decide whether to move forward
