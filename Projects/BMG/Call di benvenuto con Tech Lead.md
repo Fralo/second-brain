@@ -14,6 +14,7 @@ attendees:
 
 ## Agenda
 
+- Sei tu il line manager o Nadir (immagino che nel processo di OB lo spieghino)?
 - Di cosa si tratta il progetto? Che problema stiamo risolvendo?
 - Com'è il progetto oggi — siamo in produzione o ancora in sviluppo? Ci sono scadenze vicine?
 - Quali sono, a grandi linee, le parti in movimento? Puoi farmi una panoramica dell'architettura? Ci sono aree critiche o debito tecnico di cui devo essere consapevole?
@@ -21,6 +22,7 @@ attendees:
 - Come preferisci comunicare e aggiornarti sul mio avanzamento, almeno all'inizio?
 - Di cosa ho bisogno subito per iniziare? (accessi, doc, setup locale) E qual è la prima cosa su cui posso mettere le mani?
 - Vorresti che approfondissi qualcosa in particolare?
+
 
 ## Notes
 
