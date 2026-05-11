@@ -80,6 +80,14 @@ AGILE e stabilire le priorità.
 - ho una consapevolezza non completa di quello che è la codebase
 - enterprise grade -> BMAD
 
+## Dimensioni
+
+Chi fa cosa ?
+- Mentre io continuo ad ambientarmi, gradualmente prendo io la parte dello sviluppo.
+Sul come?
+- GitLab enterprise
+	- Issue board su gitlab
+	- mk agile con il cliente completamente intrecciato con il cliente finale
 
 ## Action items
 
