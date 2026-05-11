@@ -32,11 +32,14 @@ Stasera presentiamo il progetto e vediamo se andiamo avanti o meno
 
 Wayne Vest (stakeholder)- dirigente mckinsy, gestisce la collaborazione con nearform
 
-Mi dovrebbe contattare un certo buddy: risponde a domande
+Nella prima settimana mi dovrebbe contattare un certo buddy: risponde a domande
 
-Tommaso si muove per farmi Roche, sono segragati, non c'è modo di lavorare con il loro materiale
+Tommaso si muove per farmi account Roche, sono segragati, non c'è modo di lavorare con il loro materiale
 
 Devo aspettare l'account Roche, usano profili professionali di google (profile di chrome), computer roche, VDI -> Siteix, apre una sessione all'interno di un computer windows.
+
+Da quello che capiamo la situaizione è:
+Neafrom -> presi per aiutare BMG -> BMG fa consulenza a Roche sul progetto Traial Simulator di Swiss Pharma
 
 
 ## Progetto - Roche - Trial Simulator
@@ -48,13 +51,13 @@ Questi vengono chiamati scenari:
 voglio testare questa specifica molecoola, prendiamo degli input , macchina a stati finiti, esegue simulazione -> risultato qual'è la probabilita che questo giro di RD dia i risultati sperati ?
 
 
-Quanto probabile (fa quello che deve fare)?
-Quanto ci mettiamo?
-Quanto spendiamo?
-Calcola il ROI in base agli output dei 4
+- Quanto probabile (fa quello che deve fare)?
+- Quanto ci mettiamo?
+- Quanto spendiamo?
+- Calcola il ROI in base agli output dei 4
+Questi sono i risultati che noi mostriamo
 
-
-Angular - Backend For Frontend (FAST API) - Tutta la parte ai gira da un altra parte, ingaggiamo l'emisfero analytics e lo chiamiamo per triggherare queste simulazioni e recuperare le simulazioni.
+Angular - Backend For Frontend (FAST API) - Tutta la parte ai gira da un altra parte, ingaggiamo l'emisfero analytics e lo chiamiamo per triggherare queste simulazioni e recuperare le simulazioni (l'emisfero analytics viene sviluppato da BMG, noi prendiamo gli input e mostriamo l'output).
 
 Sistema di versioning di uno scenario
 
@@ -79,7 +82,7 @@ AGILE e stabilire le priorità.
 - ho una consapevolezza non completa di quello che è la codebase
 - enterprise grade -> BMAD
 
-## Dimensioni
+## Dimensioni (come ci dividiamo il lavoro io e tommaso)
 
 Chi fa cosa ?
 - Mentre io continuo ad ambientarmi, gradualmente prendo io la parte dello sviluppo.
