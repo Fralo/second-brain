@@ -89,6 +89,13 @@ Sul come?
 	- Issue board su gitlab
 	- mk agile con il cliente completamente intrecciato con il cliente finale
 
+Worklife balance:
+ - Lavoriamo nel tempo che siamo pagati per lavorare
+ - Tommaso solitamente fa 9-18, quello che guida sono gli impegni che ci sono quel giorno
+ - Dobbiamo metterci nelle condizioni del cliente contento:
+	 - mettiamoci nelle condizioni in cui le aspettative sono dimensionate correttamente
+	 - come nello specifico ognuno di noi ottiene quel risultato, all'azienda non interessa
+
 ## Action items
 
 - [ ] 
