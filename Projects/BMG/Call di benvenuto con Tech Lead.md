@@ -76,6 +76,7 @@ AGILE e stabilire le priorità.
 
 - molto incentrato sulla parte non funzionale
 - rendere enterprise grade quello che abbiamo fatto
+- ho una consapevolezza non completa di quello che è la codebase
 
 
 ## Action items
