@@ -95,6 +95,11 @@ Worklife balance:
  - Dobbiamo metterci nelle condizioni del cliente contento:
 	 - mettiamoci nelle condizioni in cui le aspettative sono dimensionate correttamente
 	 - come nello specifico ognuno di noi ottiene quel risultato, all'azienda non interessa
+- Punto di attenzione di questo progetto:
+	- Wayne Vest, gira il mondo non ha timezione
+	- Parte importante del team mckinsey è in europa
+	- La maggiora part del cliente è in America, e una piccola parte è in india
+	- Stiamo attenti agli orari, possiamo fare pushback per le riunioni, ma dare disponibilità
 
 ## Action items
 
