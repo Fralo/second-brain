@@ -76,7 +76,9 @@ AGILE e stabilire le priorità.
 
 - molto incentrato sulla parte non funzionale
 - rendere enterprise grade quello che abbiamo fatto
+## AI
 - ho una consapevolezza non completa di quello che è la codebase
+- enterprise grade -> BMAD
 
 
 ## Action items
