@@ -14,7 +14,6 @@ attendees:
 
 ## Agenda
 
-- Sei tu il line manager o Nadir (immagino che nel processo di OB lo spieghino)?
 - Di cosa si tratta il progetto? Che problema stiamo risolvendo?
 - Com'è il progetto oggi — siamo in produzione o ancora in sviluppo? Ci sono scadenze vicine?
 - Quali sono, a grandi linee, le parti in movimento? Puoi farmi una panoramica dell'architettura? Ci sono aree critiche o debito tecnico di cui devo essere consapevole?
@@ -31,7 +30,7 @@ Questa settimana non faremo niente
 
 Stasera presentiamo il progetto e vediamo se andiamo avanti o meno
 
-Wayne Vest - dirigente mckinsy, gestisce la collaborazione con nearform
+Wayne Vest (stakeholder)- dirigente mckinsy, gestisce la collaborazione con nearform
 
 Mi dovrebbe contattare un certo buddy: risponde a domande
 
