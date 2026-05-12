@@ -12,39 +12,64 @@ attendees:
 ---
 
 ## Context
-## Autenticazione
 
-QVR - quadrimestre di BMG
+The next BMG quarter (QVR 2) will focus mostly on **non-functional requirements** rather than new features:
+- Authentication
+- Environments
+- Monitoring / observability
 
-Programmata per QVR 2: 
-- Roche ha un sistema di autenticazione interno (loro lo chiamano SSO, immagino che lo consenta) rispetta il protocollo OIDC
-- Se rispetta il OIDC, si integra l'app frontend, redirect all'applicazione
-- Quel token contiene dei claim , e da una volta ottenuto il token, vorrebbe utilizzare il patter di autenticazione OBO
-	- A questa chiamata attacchiamo un token autorizzativo, dicendo anche qual è l'utente
-	- Supponiamo di voler mandare indietro qualcosa di più complesso:
-		- chiama altri servizi, per darmi altri dettagli
-		- possiamo farlo in due modi:
-			- OBO
-			- Client Credentials - 
-			- La nostra APP parlando con il provider OICD:
-				- da chi arriva la richiesta
-				- per cos'è la richiesta
-			- condenso il token 
-			- uso lo scope per capire se sono l'applicazione giusta
-			- è più complicato ma chi gestisce il provider di autenticazione
--
+> QVR = "quadrimestre" — BMG's four-month delivery cycle.
 
-nel QVR lavoreremo di più a requisiti non funzionali:
-- Autenticazione
-- Solamente un ambiente di sviluppo
-	- Ambiente di test
-	- Ambiente di produzione
-- Monitoraggio 
-	- le nostre applicazioni già emettono tracce e metriche secondo il protocollo Open Telemetry
-	- Tommaso ha simulato un ambiente con un ambiente open telemetry e graphana
-	- Adesso dobbiamo fare le cose come si aspetta il cliente
-		- loro hanno le idee abbastanza confuse
-		- non hanno un modo standard di fare osservabilità
+---
 
-OIDC Oauth2, OBO / CC
+## Authentication
 
+### Planned for QVR 2
+
+- Roche has an **internal authentication system** (they call it SSO) which is expected to comply with the **OIDC** protocol.
+- If it does comply with OIDC, the integration on our side is straightforward: the frontend app redirects to Roche's identity provider, and the user comes back with a token.
+- That token contains **claims** identifying the user. From there we want to adopt an **On-Behalf-Of (OBO)** pattern for service-to-service calls.
+
+### Service-to-service calls — two options
+
+When our app needs to call other services to enrich a response, we have two patterns to choose from:
+
+#### Option A — On-Behalf-Of (OBO)
+- We attach an authorization token to the downstream call, propagating **who the end user is**.
+- The downstream service sees the original user identity and can apply user-level authorization.
+
+#### Option B — Client Credentials (CC)
+- Our app talks to the OIDC provider as itself (not on behalf of the user) to obtain a service token.
+- The provider tells the downstream service:
+	- who the request is coming from (which app/client)
+	- what the request is for (scope)
+- The downstream service uses the **scope** to decide whether the caller is authorized.
+- More complex to set up, especially for whoever manages the auth provider.
+- ❓ *Tommaso also mentioned "condensing the token" in this flow — meaning unclear, to be clarified next time.*
+
+---
+
+## Environments
+
+- Today Roche only provides a **development environment**.
+- During QVR 2 we need to get **test** and **production** environments set up as well.
+
+---
+
+## Monitoring / Observability
+
+- Our applications already emit **traces and metrics** following the **OpenTelemetry** protocol.
+- Tommaso has simulated a local setup with OpenTelemetry + Grafana to validate this.
+- Next step: align with **the client's expectations** for observability.
+	- The client doesn't yet have clear ideas on this.
+	- They don't have a standard way of doing observability internally.
+
+---
+
+## Keywords / follow-ups
+
+- OIDC, OAuth2
+- OBO vs Client Credentials — pick a default pattern
+- Clarify what "condensing the token" referred to
+- Define test + prod environments with Roche
+- Agree on an observability standard with the client
