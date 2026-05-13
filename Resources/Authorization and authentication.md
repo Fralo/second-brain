@@ -5,3 +5,7 @@
 
 ## OIDC
 Add authentication on Oauth2
+
+
+## SSO
+- it's a user experience, not an auth method
