@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/BMG/Tommaso Leonardo - Notes 2.md",
+                "file": "Projects/BMG/Standup Tommaso.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tommaso Leonardo - Notes 2"
+              "title": "Standup Tommaso"
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "81d547eb9719ea94",
   "lastOpenFiles": [
-    "Projects/BMG/Standup Tommaso.md",
     "Projects/BMG/Tommaso Leonardo - Notes 2.md",
+    "Projects/BMG/Standup Tommaso.md",
     "Projects/BMG/Call di benvenuto con Tech Lead.md",
     "Projects/BMG",
     "Areas/Mental Health/Logs",
