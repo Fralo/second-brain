@@ -19,6 +19,8 @@ Due backend On-Bealfh-Of, due backend servizi, per arrivare al backend di second
 
 Microsoft Entra ID - Free Tier per fare un test del gener
 
+FE- 2 backend - 1 serverino keycloack, 
+
 ## Action items
 
 - [ ] 
