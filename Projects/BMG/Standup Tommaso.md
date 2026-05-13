@@ -10,8 +10,12 @@ attendees:
 ## Attendees
 Tommaso Meledina
 ## Agenda
+Community Backend - informarsi come funzionano
+
 
 ## Notes
+
+
 
 ## Action items
 
