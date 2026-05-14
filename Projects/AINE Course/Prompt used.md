@@ -6,4 +6,4 @@
 
 --- UPDATE ---
 
-- Dev flow seemed really slow, so given the fact that I've switched 
+- Dev flow seemed really slow, so given the fact that the -> check implementation readiness gave me and epic dependecny graph and a in-epic dependency graph I've switched the development flow to using worktrees to let multiple Claude agents work in parallel
