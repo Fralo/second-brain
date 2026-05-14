@@ -20,6 +20,11 @@ Tommaso Meledina
 - qualora mi chiedessero, sono un contractort di roche che ha ricevuto la mail per lavorare per roche (genentech) sto contattando servizio ela UNIX ID
 - no ma dovrebbe essere gia stato richiesto
 
+scegliere se far vedere o meno il DB
+
+#### Roba che mi deve dire
+Winston , per rendere ancora più somigliante, template cookie cutter per l'applicazione, prendere l'archetipo dato da Tommasso forzare winston a usare quello
+
 
 
 ## Action items
