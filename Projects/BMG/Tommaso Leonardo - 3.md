@@ -16,7 +16,9 @@ Tommaso Meledina
 - Le password vanno salvate sul BW aziendale?
 ## Notes
 - qualora mi facessero domande sulla sede roche -> basilea, sede svizzera
-- 
+- c'è un passaggio time sensitive
+- qualora mi chiedessero, sono un contractort di roche che ha ricevuto la mail per lavorare per roche (genentech) sto contattando servizio ela UNIX ID
+- no ma dovrebbe essere gia stato richiesto
 
 
 
