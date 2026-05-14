@@ -15,6 +15,8 @@ Tommaso Meledina
 - Devo chiamare l'IT service desk
 - Le password vanno salvate sul BW aziendale?
 ## Notes
+- qualora mi facessero domande sulla sede roche -> basilea, sede svizzera
+- 
 
 
 
