@@ -25,7 +25,7 @@ scegliere se far vedere o meno il DB
 #### Roba che mi deve dire
 Winston , per rendere ancora più somigliante, template cookie cutter per l'applicazione, prendere l'archetipo dato da Tommasso forzare winston a usare quello
 
-
+Per accedere ai servizi posso usare direttamente la VM accedendo tramite
 smartweb.roche.net
 
 
