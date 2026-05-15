@@ -34,9 +34,18 @@
               "icon": "lucide-file",
               "title": "Prompt used"
             }
+          },
+          {
+            "id": "f8835358f7e3bd9e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,7 +208,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "39862add3893f4be",
+  "active": "81d547eb9719ea94",
   "lastOpenFiles": [
     "Projects/BMG/Tommaso Leonardo - 3.md",
     "Projects/AINE Course/Prompt used.md",

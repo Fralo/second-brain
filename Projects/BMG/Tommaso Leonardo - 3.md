@@ -26,6 +26,9 @@ scegliere se far vedere o meno il DB
 Winston , per rendere ancora più somigliante, template cookie cutter per l'applicazione, prendere l'archetipo dato da Tommasso forzare winston a usare quello
 
 
+smartweb.roche.net
+
+
 
 ## Action items
 
