@@ -7,3 +7,6 @@
 --- UPDATE ---
 
 - Dev flow seemed really slow, so given the fact that the -> check implementation readiness gave me and epic dependecny graph and a in-epic dependency graph I've switched the development flow to using worktrees to let multiple Claude agents work in parallel
+
+- During the development of the epics (around 2-3) i've encountered a lot of deferred work, i have run epic 2 and 3 in parallel to speed up the process
+- i'll try to address all the deferred work before moving into epic 4

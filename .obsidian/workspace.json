@@ -45,7 +45,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,7 +209,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "81d547eb9719ea94",
+  "active": "39862add3893f4be",
   "lastOpenFiles": [
     "Projects/BMG/Tommaso Leonardo - 3.md",
     "Projects/AINE Course/Prompt used.md",
