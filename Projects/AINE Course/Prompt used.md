@@ -10,3 +10,7 @@
 
 - During the development of the epics (around 2-3) i've encountered a lot of deferred work, i have run epic 2 and 3 in parallel to speed up the process
 - i'll try to address all the deferred work before moving into epic 4
+  
+  
+  The end result was that the SPA was build alonside the BFF docker image.
+  We try to containerize everything with /bmad-change-course skill

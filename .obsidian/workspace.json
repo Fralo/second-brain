@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -223,10 +223,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "fdb488926a6c7f2b",
+  "active": "39862add3893f4be",
   "lastOpenFiles": [
-    "Projects/BMG/Tommaso Leonardo - Notes 2.md",
     "Link SSO roche.md",
+    "Projects/BMG/Tommaso Leonardo - Notes 2.md",
     "Projects/BMG/Tommaso Leonardo - 3.md",
     "Projects/BMG/Standup Tommaso.md",
     "Projects/BMG/Call di benvenuto con Tech Lead.md",
