@@ -25,3 +25,11 @@
 
 Section 6.1.2 
 
+- We use the user `AT` to call PingFederate with grant_type=jwt-bearer and using the JWT as assertion
+- We get back a new token `AT-Downstream`
+- We use this token to access the other API, going througt MuleSoft API Gateway
+- We can cache the `AT-Downstream` token in order to avoid going trougth the loop again
+	- Other things to keep in mind:
+	- TS backend must be registered as allowed to use the `jwt-bearer` grant type.
+	- The original JWT needs `iss`, `sub`, `aud`, `exp` claims (the guide is explicit about this).
+	- The `aud` of the `AT-Downstream` must match what the downstream MuleSoft API expects
