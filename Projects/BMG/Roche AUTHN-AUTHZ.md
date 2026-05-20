@@ -20,3 +20,7 @@
 		- we use the `memberOf` claim to check if the user has access
 		- OGNL expression to filter `memberOf` to just the groups relevant to TS
 		- we could potentially use this for RBAC
+
+## Accessing other APIs (ARC, Prefect deployments)
+
+Section 6.1.2 
