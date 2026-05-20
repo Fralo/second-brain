@@ -47,5 +47,6 @@ Section 6.1.2
 - Will our client have `scope=opendid` that we can use for the OIDC flow?
 	- - Can we request `scope=openid` and receive an `id_token`?
 	- Is there a discovery endpoint (`/.well-known/openid-configuration`) we should use?
+		- https://wamdev.roche.com/.well-known/openid-configuration
 	- Is there a `userinfo` endpoint and an `end_session_endpoint` (for logout/SLO)?
 	- What claims will the `id_token` contain (sub, email, name, groups)?
