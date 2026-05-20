@@ -43,3 +43,9 @@ Section 6.1.2
 	- What's the exact claim name for groups, and can it be pre-filtered for your app?
 	- Is `jwt-bearer` assertion grant approved TS, and what's the `aud` value for the downstream API?
 	- What's the token TTL (`expires_in`) and refresh token TTL? This drives your caching and session strategy.
+## Questions
+- Will our client have `scope=opendid` that we can use for the OIDC flow?
+	- - Can we request `scope=openid` and receive an `id_token`?
+	- Is there a discovery endpoint (`/.well-known/openid-configuration`) we should use?
+	- Is there a `userinfo` endpoint and an `end_session_endpoint` (for logout/SLO)?
+	- What claims will the `id_token` contain (sub, email, name, groups)?

@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -242,12 +242,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "f8835358f7e3bd9e",
+  "active": "bc86d79f52a878d0",
   "lastOpenFiles": [
+    "Projects/BMG/Nasir Leonardo.md",
     "Projects/AINE Course/Prompt used.md",
     "Projects/BMG/Roche AUTHN-AUTHZ.md",
     "Link SSO roche.md",
-    "Projects/BMG/Nasir Leonardo.md",
     "Projects/BMG/Tommaso Leonardo - Notes 2.md",
     "Projects/BMG/Tommaso Leonardo - 3.md",
     "Projects/BMG/Standup Tommaso.md",
