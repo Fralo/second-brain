@@ -17,4 +17,6 @@
 		- in this way unauthorized users fail to login and never touch our app
 		- ask to roche IAM team
 	2. Filter at our backend level
-		- we use the `memberOf` claim to  
+		- we use the `memberOf` claim to check if the user has access
+		- OGNL expression to filter `memberOf` to just the groups relevant to TS
+		- we could potentially use this for RBAC
