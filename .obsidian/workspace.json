@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/BMG/Roche AUTHN-AUTHZ.md",
+                "file": "Projects/BMG/Auth/Auth spec draft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roche AUTHN-AUTHZ"
+              "title": "Auth spec draft"
             }
           },
           {
@@ -135,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "486ecb2e18afea06",
@@ -244,9 +243,11 @@
   },
   "active": "bc86d79f52a878d0",
   "lastOpenFiles": [
+    "Projects/BMG/Roche AUTHN-AUTHZ.md",
+    "Projects/BMG/Auth/Auth spec draft.md",
+    "Projects/BMG/Auth",
     "Projects/BMG/Nasir Leonardo.md",
     "Projects/AINE Course/Prompt used.md",
-    "Projects/BMG/Roche AUTHN-AUTHZ.md",
     "Link SSO roche.md",
     "Projects/BMG/Tommaso Leonardo - Notes 2.md",
     "Projects/BMG/Tommaso Leonardo - 3.md",
@@ -267,7 +268,6 @@
     "CLAUDE.md.tmp.76698.45b9429151fb",
     "Templates/Mental Health Log.md.tmp.76698.485c681f2683",
     "Templates",
-    "Archives",
-    "Resources"
+    "Archives"
   ]
 }
