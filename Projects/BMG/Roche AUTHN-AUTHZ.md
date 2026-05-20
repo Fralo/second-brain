@@ -95,6 +95,10 @@ Section 6.1.2
 We have to acess this scopes:
 - `openid` -> at the platform level, they have that, our client needs to be allowed to use it
 - `offline_access` -> this give us the refresh token
+```python
+scopes: list[str] = ["openid", "profile", "email", "offline_access"]
+```
+
 Response type supported:
 - we need `code`
 
