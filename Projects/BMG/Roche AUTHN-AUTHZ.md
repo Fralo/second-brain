@@ -7,3 +7,5 @@
 - Token validation (JWKS): `https://<pf_host>:<port>/ext/<JWKS Endpoint Path>`
 
 
+## Trial Simulator
+Is a "Confidential Client with a browser frontend"
