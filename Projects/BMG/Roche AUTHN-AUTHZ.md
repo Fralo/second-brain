@@ -93,6 +93,12 @@ Section 6.1.2
 ### What we need
 
 We have to acess this scopes:
-- openid -> at the platform level, they have that, our client needs to be allowed to use it
-- offline_access -> this give us the refresh token
-- 
+- `openid` -> at the platform level, they have that, our client needs to be allowed to use it
+- `offline_access` -> this give us the refresh token
+Response type supported:
+- we need `code`
+
+Grant type: 
+- we should use `authorization_code`
+- `subject_types_supported` to check if we have to share it with ARC
+	- if it is `public` we can use it to reference the user in other client systems
