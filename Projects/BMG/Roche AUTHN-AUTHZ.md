@@ -50,3 +50,13 @@ Section 6.1.2
 		- https://wamdev.roche.com/.well-known/openid-configuration
 	- Is there a `userinfo` endpoint and an `end_session_endpoint` (for logout/SLO)?
 	- What claims will the `id_token` contain (sub, email, name, groups)?
+
+RANDOM notes
+|Aspect|OAuth 2.0 only|With OIDC|
+|---|---|---|
+|Identity proof|Decode `access_token` JWT and hope claims are stable|Validate `id_token` per spec|
+|User claims source|Access token (technically wrong)|ID token + `/userinfo` endpoint|
+|Endpoint config|Hardcoded per environment|Discovery endpoint|
+|Logout|Local only|Full SLO via `end_session_endpoint`|
+|Replay protection|None standard|`nonce` claim|
+|Standard libraries|Limited|Many battle-tested options|
