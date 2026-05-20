@@ -33,3 +33,8 @@ Section 6.1.2
 	- TS backend must be registered as allowed to use the `jwt-bearer` grant type.
 	- The original JWT needs `iss`, `sub`, `aud`, `exp` claims (the guide is explicit about this).
 	- The `aud` of the `AT-Downstream` must match what the downstream MuleSoft API expects
+
+## RBAC
+
+- roles has to be internals to TS
+- 
