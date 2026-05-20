@@ -8,4 +8,13 @@
 
 
 ## Trial Simulator
-Is a "Confidential Client with a browser frontend"
+- Is a "Confidential Client with a browser frontend"
+- The guide does not mention PKCE -> ask the IAM Team if it can be enabled
+- The flow
+- FE -> SSO -> Backend (exchanges code for token, saves it in DB and issues http-only Session Cookie) -> FE
+- To check if someone has really access we can:
+	  1. Filter at the IdP level
+		- in this way unauthorized users fail to login and never touch our app
+		- ask to roche IAM team
+	2. Filter at our backend level
+		- we use the `memberOf` claim to  
