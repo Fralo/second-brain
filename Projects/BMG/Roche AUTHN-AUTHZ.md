@@ -37,4 +37,9 @@ Section 6.1.2
 ## RBAC
 
 - roles has to be internals to TS
-- 
+- we can map the memberOf groups to specific roles inside TS app, each role will have it's own permissions
+- To clarify with IAM team
+	- Can your client be configured with PKCE and group-scoped access?
+	- What's the exact claim name for groups, and can it be pre-filtered for your app?
+	- Is `jwt-bearer` assertion grant approved TS, and what's the `aud` value for the downstream API?
+	- What's the token TTL (`expires_in`) and refresh token TTL? This drives your caching and session strategy.
