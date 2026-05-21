@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/BMG/Auth/Auth spec draft.md",
+                "file": "Projects/BMG/Roche AUTHN-AUTHZ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Auth spec draft"
+              "title": "Roche AUTHN-AUTHZ"
             }
           },
           {
@@ -243,12 +243,12 @@
   },
   "active": "bc86d79f52a878d0",
   "lastOpenFiles": [
-    "Projects/BMG/Roche AUTHN-AUTHZ.md",
     "Projects/BMG/Auth/Auth spec draft.md",
+    "Link SSO roche.md",
+    "Projects/BMG/Roche AUTHN-AUTHZ.md",
     "Projects/BMG/Auth",
     "Projects/BMG/Nasir Leonardo.md",
     "Projects/AINE Course/Prompt used.md",
-    "Link SSO roche.md",
     "Projects/BMG/Tommaso Leonardo - Notes 2.md",
     "Projects/BMG/Tommaso Leonardo - 3.md",
     "Projects/BMG/Standup Tommaso.md",
