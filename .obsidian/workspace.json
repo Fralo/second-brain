@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/BMG/Tommaso Leonardo - 3.md",
+                "file": "Projects/BMG/Auth/Oauth 2.0 in a browser environment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tommaso Leonardo - 3"
+              "title": "Oauth 2.0 in a browser environment"
             }
           },
           {
@@ -131,8 +131,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -244,14 +243,15 @@
   },
   "active": "bc86d79f52a878d0",
   "lastOpenFiles": [
-    "Projects/BMG/Roche AUTHN-AUTHZ.md",
     "Projects/BMG/Auth/Auth spec draft.md",
+    "Projects/BMG/Auth/Oauth 2.0 in a browser environment.md",
+    "Projects/BMG/Tommaso Leonardo - 3.md",
+    "Projects/BMG/Roche AUTHN-AUTHZ.md",
     "Link SSO roche.md",
     "Projects/BMG/Auth",
     "Projects/BMG/Nasir Leonardo.md",
     "Projects/AINE Course/Prompt used.md",
     "Projects/BMG/Tommaso Leonardo - Notes 2.md",
-    "Projects/BMG/Tommaso Leonardo - 3.md",
     "Projects/BMG/Standup Tommaso.md",
     "Projects/BMG/Call di benvenuto con Tech Lead.md",
     "Resources/Authorization and authentication.md",
