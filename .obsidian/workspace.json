@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/BMG/Auth/Oauth 2.0 in a browser environment.md",
+                "file": "Projects/BMG/Configurazione SSO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Oauth 2.0 in a browser environment"
+              "title": "Configurazione SSO"
             }
           },
           {
@@ -243,8 +243,9 @@
   },
   "active": "bc86d79f52a878d0",
   "lastOpenFiles": [
-    "Projects/BMG/Auth/Auth spec draft.md",
     "Projects/BMG/Auth/Oauth 2.0 in a browser environment.md",
+    "Projects/BMG/Configurazione SSO.md",
+    "Projects/BMG/Auth/Auth spec draft.md",
     "Projects/BMG/Tommaso Leonardo - 3.md",
     "Projects/BMG/Roche AUTHN-AUTHZ.md",
     "Link SSO roche.md",
