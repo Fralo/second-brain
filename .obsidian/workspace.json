@@ -13,72 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/BMG/Tommaso Leonardo - Notes 2.md",
+                "file": "Projects/BMG/Improve UX around Sample Size Calculation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tommaso Leonardo - Notes 2"
-            }
-          },
-          {
-            "id": "fdb488926a6c7f2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Link SSO roche.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Link SSO roche"
-            }
-          },
-          {
-            "id": "bc86d79f52a878d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/BMG/Configurazione SSO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Configurazione SSO"
-            }
-          },
-          {
-            "id": "39862add3893f4be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/AINE Course/Prompt used.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Prompt used"
-            }
-          },
-          {
-            "id": "f8835358f7e3bd9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/BMG/Nasir Leonardo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nasir Leonardo"
+              "title": "Improve UX around Sample Size Calculation"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,18 +184,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "bc86d79f52a878d0",
+  "active": "81d547eb9719ea94",
   "lastOpenFiles": [
-    "Projects/BMG/Auth/Oauth 2.0 in a browser environment.md",
+    "Projects/BMG/Tommaso Leonardo - Notes 2.md",
+    "Projects/BMG/Improve UX around Sample Size Calculation.md",
+    "Link SSO roche.md",
+    "Projects/BMG/Nasir Leonardo.md",
+    "Projects/AINE Course/Prompt used.md",
     "Projects/BMG/Configurazione SSO.md",
+    "Projects/BMG/Auth/Oauth 2.0 in a browser environment.md",
     "Projects/BMG/Auth/Auth spec draft.md",
     "Projects/BMG/Tommaso Leonardo - 3.md",
     "Projects/BMG/Roche AUTHN-AUTHZ.md",
-    "Link SSO roche.md",
     "Projects/BMG/Auth",
-    "Projects/BMG/Nasir Leonardo.md",
-    "Projects/AINE Course/Prompt used.md",
-    "Projects/BMG/Tommaso Leonardo - Notes 2.md",
     "Projects/BMG/Standup Tommaso.md",
     "Projects/BMG/Call di benvenuto con Tech Lead.md",
     "Resources/Authorization and authentication.md",
