@@ -11,10 +11,14 @@
             "id": "4ce282c5bda93414",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Projects/BMG/Multiple Enpoints and Clinical Success Refactor.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Multiple Enpoints and Clinical Success Refactor"
             }
           }
         ]
@@ -182,6 +186,7 @@
   },
   "active": "4ce282c5bda93414",
   "lastOpenFiles": [
+    "Projects/BMG/Multiple Enpoints and Clinical Success Refactor.md",
     "Projects/BMG/Improve UX around Sample Size Calculation.md",
     "Projects/BMG/Tommaso Leonardo - Notes 2.md",
     "Link SSO roche.md",
