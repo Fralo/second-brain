@@ -8,3 +8,4 @@
 	- Nello step Configure Statistical Approach, possiamo aggiungere N endpoint
 	- Per ogni endpoint dovremo salvare singolarmente i contenuti delle card`Endpoint structure`, `Win Conditions`,`Alpha & Power` , `Calculation Parameters`  ?
 - I risultati dei vari endpoint finiranno in un unico punto dentro a PTS_RESULTS?
+- Every endpoint will have a dedicated prefect flow? Or the same flow is gonna calculate every endpoint we pass as the input?
