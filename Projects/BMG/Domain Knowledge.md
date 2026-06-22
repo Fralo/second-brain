@@ -6,3 +6,4 @@ Per esempio:
 - "Time until disease progress" (time-to-event/survival)
 
 ### Alpha
+Acceptable false positive rate (percentuale di falsi positivi accettabili)
