@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Multiple Enpoints and Clinical Success Refactor"
             }
+          },
+          {
+            "id": "c159d82fc4edd417",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/BMG/Domain Knowledge.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Domain Knowledge"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,9 +199,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "4ce282c5bda93414",
+  "active": "c159d82fc4edd417",
   "lastOpenFiles": [
     "Projects/BMG/Multiple Enpoints and Clinical Success Refactor.md",
+    "Projects/BMG/Domain Knowledge.md",
     "Projects/BMG/Improve UX around Sample Size Calculation.md",
     "Projects/BMG/Tommaso Leonardo - Notes 2.md",
     "Link SSO roche.md",
