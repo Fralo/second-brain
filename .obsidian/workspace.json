@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/BMG/Multiple Enpoints and Clinical Success Refactor.md",
+                "file": "Projects/BMG/Improve UX around Sample Size Calculation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Multiple Enpoints and Clinical Success Refactor"
+              "title": "Improve UX around Sample Size Calculation"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Multiple Enpoints and Clinical Success Refactor"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,15 +198,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "c159d82fc4edd417",
+  "active": "4ce282c5bda93414",
   "lastOpenFiles": [
+    "Projects/BMG/Multiple Enpoints and Clinical Success Refactor.md",
+    "Projects/BMG/Improve UX around Sample Size Calculation.md",
     "CLAUDE.md",
     "Projects/BMG/Domain Knowledge.md",
-    "Projects/BMG/Improve UX around Sample Size Calculation.md",
     "Projects/BMG/BIN/Tommaso Leonardo - Notes 2.md",
     "Projects/BMG/BIN/Standup Tommaso.md",
     "Projects/BMG/BIN",
-    "Projects/BMG/Multiple Enpoints and Clinical Success Refactor.md",
     "Link SSO roche.md",
     "Projects/BMG/BIN/Nasir Leonardo.md",
     "Projects/AINE Course/Prompt used.md",
