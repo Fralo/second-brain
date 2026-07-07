@@ -1,9 +1,9 @@
 ## Lavoro
 - [ ] Testare client credentials
-- [ ] Finalizzare MR dello sweep stocazz
+- [x] Finalizzare MR dello sweep stocazz
 
 ## Personale
-- [ ] Sistemare NVIM
+- [x] Sistemare NVIM
 - [ ] Assicurazione moto
 - [ ] Fare lavatrice
 - [ ] Dare il cencio
