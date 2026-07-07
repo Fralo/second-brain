@@ -1,1 +1,0 @@
-"model": "us.anthropic.claude-opus-4-6-v1",
