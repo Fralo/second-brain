@@ -18,4 +18,4 @@ Le spec -> almeno un branch stabile sul repository data contract, pinno data con
 Tieni d'occhio quel foglio, ci concentriamo sulla parte di SPEC
 Vediamo se è cambiato qualcosa, quando ci hanno dato il necessario per creare i WI, diamo priorità a rendere pronti all'implementazione le spec per il 22 di lugio, alcune di queste dipenderanno da le due mr che abbiamo ancora in attesa
 
-Se ce n'è qualcuno che non dipende fa
+Se ce n'è qualcuno che non dipende dalle MR aperte, iniziare alle spec
