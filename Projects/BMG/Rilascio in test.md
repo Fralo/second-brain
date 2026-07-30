@@ -14,3 +14,8 @@
 4. staccare nuovo branch su dev (ex b1)
 5. mergiare release dentro a b1
 6. mergiare b1 -> develop
+
+### la pezza
+per portare a manella dei changes in AWS
+1. chiedere a riccardo
+2. a
