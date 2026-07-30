@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/BMG/Multiple Endpoints.md",
+                "file": "Projects/BMG/Rilascio in test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Multiple Endpoints"
+              "title": "Rilascio in test"
             }
           }
         ],
@@ -215,20 +215,21 @@
   },
   "active": "b7ae9673e4f1b4c3",
   "lastOpenFiles": [
-    "Cose da chiarire aperte.md",
+    "Projects/BMG/Domain Knowledge.md",
+    "Projects/BMG/Rilascio in test.md",
+    "Projects/BMG/Improve UX around Sample Size Calculation.md",
     "Projects/BMG/Multiple Enpoints and Clinical Success Refactor.md",
     "Projects/BMG/Multiple Endpoints.md",
-    "Projects/BMG/Improve UX around Sample Size Calculation.md",
+    "CLAUDE.md",
+    "Cose da chiarire aperte.md",
+    "Link SSO roche.md",
     "TODO list.md",
     "Untitled.md",
     "tmp.md",
     "Screenshot 2026-06-23 at 15.26.03.png",
-    "Projects/BMG/Domain Knowledge.md",
-    "CLAUDE.md",
     "Projects/BMG/BIN/Tommaso Leonardo - Notes 2.md",
     "Projects/BMG/BIN/Standup Tommaso.md",
     "Projects/BMG/BIN",
-    "Link SSO roche.md",
     "Projects/BMG/BIN/Nasir Leonardo.md",
     "Projects/AINE Course/Prompt used.md",
     "Projects/BMG/BIN/Configurazione SSO.md",
@@ -248,7 +249,6 @@
     "Areas/Mental Health/Logs/2026-05-06.md",
     "Templates/Todo List.md",
     "Templates/Meeting Notes.md",
-    "Welcome.md",
     "CLAUDE.md.tmp.76698.45b9429151fb",
     "Templates/Mental Health Log.md.tmp.76698.485c681f2683",
     "Templates"
