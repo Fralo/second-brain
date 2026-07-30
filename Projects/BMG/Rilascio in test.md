@@ -5,4 +5,4 @@
 
 
 ### Steps
-1. Cancellare release da gitlab e creare branch release da GitLab
+1. Cancellare release da gitlab e creare branch release da GitLab (use the Clementoni interface)
