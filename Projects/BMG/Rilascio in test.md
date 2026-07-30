@@ -4,3 +4,5 @@
 `ENGINEERING_ASSESMENT.md`
 
 
+### Steps
+1. Cancellare release da gitlab e creare branch release da GitLab
