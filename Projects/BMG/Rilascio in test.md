@@ -1,34 +1,13 @@
 ________________
 note che non c'entrano nula
-```
-The
 
-compose-parallel.sh
 
-port probe doesn't work in this devcontainer.
+# e2e test suite for AuthN
+Qua mi si aprono un paio di domande:
+1. Per avere dei *veri* test e2e, non dovremmo avere sempre AuthN attivo?
+2. Nel caso volessimo separare la parte con Auth attiva e keycloack che gira
+	1. 
 
-It relies on
-
-lsof -iTCP:<port> -sTCP:LISTEN
-
-, which can't see Docker-published host ports from inside the container (reports busy ports as free), so it never shifts ports and always claims the defaults. The whole point of that script is to let stacks coexist on one host, so this is effectively defeated here. That's why the collision happened rather than an automatic shift. If you spin up a second concurrent stack it'll collide again. Want me to open a follow-up to make the probe fall back to
-
-ss
-
-/
-
-/proc
-
-when
-
-lsof
-
-can't see docker-proxy bindings? (
-
-ss
-
-is available and does see them.
-```
 
 
 ___________________
